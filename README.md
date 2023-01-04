@@ -20,7 +20,7 @@
 ![Spring50-50](https://user-images.githubusercontent.com/102749844/173581074-ad54cf4a-b169-4961-abbc-3cd2d5531843.png)
 ![php](https://user-images.githubusercontent.com/95943858/210660908-24a50c9f-e5df-4982-b1d3-19961e63cbb5.jpg)
 ![laravel (1)](https://user-images.githubusercontent.com/95943858/210660772-44b49707-0172-4ab0-875a-ac7d70289ff9.png)
-![tailwind-css-icon (1)](https://user-images.githubusercontent.com/95943858/210660749-75a65093-bfad-43ee-a26f-ef8597c2e54f.png)
-![vue (1)](https://user-images.githubusercontent.com/95943858/210660728-9cefe124-4703-487b-bdcf-76155ecbfcfe.png)
+![tailwind-css-icon_](https://user-images.githubusercontent.com/95943858/210661225-54a00064-167c-43dc-95b3-8b25b1680d03.png)
+![vue_](https://user-images.githubusercontent.com/95943858/210661103-9574ef3d-03b7-496b-8992-44377a340bb9.png)
 
 
