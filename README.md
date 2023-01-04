@@ -18,8 +18,9 @@
 ![JavaScript](https://user-images.githubusercontent.com/102749844/173581498-7c666d1e-7d7d-4056-93d1-c8a8edde3e2e.png)
 ![NodeJS_1_50x50](https://user-images.githubusercontent.com/102749844/194075295-610fc6ef-cf82-4aa4-aa41-981aadd2d7c2.png)
 ![Spring50-50](https://user-images.githubusercontent.com/102749844/173581074-ad54cf4a-b169-4961-abbc-3cd2d5531843.png)
-![php](https://user-images.githubusercontent.com/95943858/210659500-00ba0675-4f39-458d-821a-668bfc312a05.jpg)
-![laravel](https://user-images.githubusercontent.com/95943858/210659949-14873f3d-5f73-4e15-9bb3-be49a2db39d8.png)
-![tailwind-css-icon](https://user-images.githubusercontent.com/95943858/210660207-4d2a261b-044b-4de4-93dc-abae5ff8c0c7.png)
-![vue](https://user-images.githubusercontent.com/95943858/210660340-122056be-50a0-42f8-b541-109a36d0cf0e.png)
+![php](https://user-images.githubusercontent.com/95943858/210660908-24a50c9f-e5df-4982-b1d3-19961e63cbb5.jpg)
+![laravel (1)](https://user-images.githubusercontent.com/95943858/210660772-44b49707-0172-4ab0-875a-ac7d70289ff9.png)
+![tailwind-css-icon (1)](https://user-images.githubusercontent.com/95943858/210660749-75a65093-bfad-43ee-a26f-ef8597c2e54f.png)
+![vue (1)](https://user-images.githubusercontent.com/95943858/210660728-9cefe124-4703-487b-bdcf-76155ecbfcfe.png)
+
 
