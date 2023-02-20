@@ -1,5 +1,5 @@
  # Roly2033
-  Hi, I’m **Roly** and I'm web development.
+  Hi, I’m **Roly** and systems engineering graduate
 ## Languages and frameworks
 - Java
 - HTML
