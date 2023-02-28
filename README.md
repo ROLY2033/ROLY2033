@@ -5,7 +5,6 @@
 - HTML
 - CSS
 - PHP
-- Bitbucket
 - TailwindCSS
 - JavaScript
 - NodeJS
@@ -13,6 +12,19 @@
 - VueJS
 - laravel
 - blade
+
+| Do this             | dominio          |  down           |
+|---------------------|------------------|-----------------|
+| `1. Java`           | `3%`             | link            |
+| `2. PHP`            | `12%`            | links           |
+| `1. VueJS`          | `5%`             | link            |
+| `2. Spring`         | `1%`             | links           |
+| `1. laravel`        | `3%`             | link            |
+| `2. JavaScript`     | `1%`             | links           |
+| `1. HTML`           | `30%`            | link            |
+| `2. blade`          | `12%`            | links           |
+| `1. git`            | `7%`             | link            |
+
 
 ![Java](https://user-images.githubusercontent.com/102749844/173580987-89f908d8-dc3e-4e0c-ab41-6761e27963c1.png)
 ![HTML + CSS](https://user-images.githubusercontent.com/102749844/173581014-ac57c5d2-2305-479e-bab0-41aaba1a7c68.png)
