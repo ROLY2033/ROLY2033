@@ -1,29 +1,18 @@
  # Roly2033
   Hi, I’m **Roly** and systems engineering graduate
 ## Languages and frameworks
-- Java
-- HTML
-- CSS
-- PHP
-- TailwindCSS
-- JavaScript
-- NodeJS
-- Spring
-- VueJS
-- laravel
-- blade
 
-| Do this             | dominio          |  down           |
+| Tecnologias         | Dominio          |  Proyectos      |
 |---------------------|------------------|-----------------|
-| `1. Java`           | `3%`             | link            |
-| `2. PHP`            | `12%`            | links           |
-| `1. VueJS`          | `5%`             | link            |
-| `2. Spring`         | `1%`             | links           |
-| `1. laravel`        | `3%`             | link            |
-| `2. JavaScript`     | `1%`             | links           |
-| `1. HTML`           | `30%`            | link            |
-| `2. blade`          | `12%`            | links           |
-| `1. git`            | `7%`             | link            |
+| `1. Java`           | `3%`             |      N.A        |
+| `2. PHP`            | `12%`            |      N.A        |
+| `1. VueJS`          | `5%`             |      N.A        |
+| `2. Spring`         | `1%`             |      N.A        |
+| `1. laravel`        | `3%`             |      N.A        |
+| `2. JavaScript`     | `1%`             |      N.A        |
+| `1. HTML`           | `30%`            |      N.A        |
+| `2. blade`          | `12%`            |      N.A        |
+| `1. git`            | `7%`             |      N.A        |
 
 
 ![Java](https://user-images.githubusercontent.com/102749844/173580987-89f908d8-dc3e-4e0c-ab41-6761e27963c1.png)
