@@ -5,6 +5,7 @@
 - HTML
 - CSS
 - PHP
+- Bitbucket
 - TailwindCSS
 - JavaScript
 - NodeJS
