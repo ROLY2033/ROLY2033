@@ -1,6 +1,6 @@
  
  # Roly2033
-  Hola, Soy Roly egresado de ingenieria de sistemas, actualmente estoy aprendiendo HTML basico y git en la plataforma de platzi espero poder terminar y aprender :muscle:.
+  Hola, Soy **Roly** egresado de ingenieria de sistemas, actualmente estoy aprendiendo HTML basico y git en la plataforma de platzi espero poder terminar y aprender :muscle:.
 ## Languages and frameworks
 
 <div align="center">
