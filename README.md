@@ -4,15 +4,15 @@
 
 | Tecnologias         | Dominio          |  Proyectos      |
 |---------------------|------------------|-----------------|
-| `1. Java`           | `3%`             |      N.A        |
-| `2. PHP`            | `12%`            |      N.A        |
-| `1. VueJS`          | `5%`             |      N.A        |
-| `2. Spring`         | `1%`             |      N.A        |
-| `1. laravel`        | `3%`             |      N.A        |
-| `2. JavaScript`     | `1%`             |      N.A        |
-| `1. HTML`           | `30%`            |      N.A        |
-| `2. blade`          | `12%`            |      N.A        |
-| `1. git`            | `7%`             |      N.A        |
+| 1.` Java`           | `3%`             |      N.A        |
+| 2.` PHP`            | `12%`            |      N.A        |
+| 3.` VueJS`          | `5%`             |      N.A        |
+| 4.` Spring`         | `1%`             |      N.A        |
+| 5.` laravel`        | `3%`             |      N.A        |
+| 6.` JavaScript`     | `1%`             |      N.A        |
+| 7.` HTML`           | `30%`            |      N.A        |
+| 8.` blade`          | `12%`            |      N.A        |
+| 9.` git`            | `7%`             |      N.A        |
 
 
 ![Java](https://user-images.githubusercontent.com/102749844/173580987-89f908d8-dc3e-4e0c-ab41-6761e27963c1.png)
