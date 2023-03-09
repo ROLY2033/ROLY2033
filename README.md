@@ -33,9 +33,10 @@
 
 </div>
 
-## Proyectos personales<img width="20" height="30">
+## Proyectos personales
+
 <p align="center">
-  <a href="https://github.com/ROLY2033/blogger-laravel" title="Disney+ Copycat | Koalba">
+  <a href="https://github.com/ROLY2033/blogger-laravel" title="Laravel blogger">
       <img width="45%" src="https://user-images.githubusercontent.com/95943858/216058147-d694072e-8506-420d-9b1f-ba554c624584.png">
   </a>
 </p>
