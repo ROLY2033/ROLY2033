@@ -26,7 +26,7 @@ Hola, Soy **Roly** egresado de ingenieria de sistemas, actualmente estoy aprendi
 | 4. `Spring`         | `1%`             |      N.A        |           
 | 5. `laravel`        | `3%`             |      N.A        |           
 | 6. `JavaScript`     | `1%`             |      N.A        |           
-| 7. `HTML`           | `40%`            |[hola-mundo](https://github.com/ROLY2033/hola-mundo-html)        |          
+| 7. `HTML`           | `50%`            |[hola-mundo](https://github.com/ROLY2033/hola-mundo-html)        |          
 | 8. `blade`          | `12%`            |      N.A        |          
 | 9. `git`            | `7%`             |      N.A        |
 
