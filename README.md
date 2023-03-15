@@ -1,5 +1,6 @@
  
-Hola, Soy **Roly** egresado de ingenieria de sistemas, actualmente estoy aprendiendo HTML basico y git en la plataforma de platzi estoy aprendiendo mucho sobre estas tecnologias; espero poder terminar y aprender cosas interesantes :muscle:.
+Hola, Soy **Roly** egresado de ingenieria de sistemas. <br>
+Actualmente estoy aprendiendo HTML basico y git en la plataforma de platzi estoy aprendiendo mucho sobre estas tecnologias; espero poder terminar y aprender cosas interesantes :muscle:.
 
 
 <div align="center"> 
