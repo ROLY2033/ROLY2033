@@ -29,7 +29,7 @@ Actualmente estoy aprendiendo HTML basico y git en la plataforma de platzi estoy
 | 6. `JavaScript`     | `1%`             |      N.A        |           
 | 7. `HTML`           | `52%`            |[hola-mundo](https://github.com/ROLY2033/hola-mundo-html)        |          
 | 8. `blade`          | `12%`            |      N.A        |          
-| 9. `git`            | `15%`             |      N.A        |
+| 9. `git`            | `17%`             |      N.A        |
 
 </div>
 
