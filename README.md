@@ -38,12 +38,9 @@ Actualmente estoy aprendiendo HTML basico y git en la plataforma de <strong>plat
 ## Proyectos personales
 
 <!-- <p align="center"> -->
-<p >
-  <a href="https://github.com/ROLY2033/blogger-laravel" title="Laravel blogger">
+<p width="10%" >
+ <h5>  Blog Personal</h5> 
+ <a href="https://github.com/ROLY2033/blogger-laravel" title="Laravel blogger">
    <img width="45%" src="https://user-images.githubusercontent.com/95943858/216058147-d694072e-8506-420d-9b1f-ba554c624584.png">
-   <h5 style="tab-size: 8">Blog Personal</h5> 
- </a>
-  
+ </a>  
 </p>
-
-
