@@ -37,22 +37,17 @@ Actualmente estoy aprendiendo HTML basico y git en la plataforma de <strong>plat
 
 ## Proyectos personales
 
-<!-- <p align="center"> -->
-<p width="10%" >
- <h3>  Blog Personal</h3> 
- <a href="https://github.com/ROLY2033/blogger-laravel" title="Laravel blogger">
-   <img width="45%" src="https://user-images.githubusercontent.com/95943858/216058147-d694072e-8506-420d-9b1f-ba554c624584.png">
- </a>   
-</p>
-<p width="10%" >
- <h3>  Netflix clone - vue js</h3> 
- <a href="https://github.com/ROLY2033/blogger-laravel" title=" Netflix clone - vue js">
-   <img width="45%" src="https://user-images.githubusercontent.com/95943858/228941195-fc11b7d3-8352-44c5-897d-e344682f47d6.png">
- </a>   
-</p>
 
 
-
-
-
-
+<table>
+  <tr>
+   <td valign="top">
+       <h3>  Blog Personal</h3> 
+       <img src="https://user-images.githubusercontent.com/95943858/216058147-d694072e-8506-420d-9b1f-ba554c624584.png"/>
+   </td>
+    <td valign="top">
+       <h3>  Netflix clone - vue js</h3> 
+       <img src="https://user-images.githubusercontent.com/95943858/228941195-fc11b7d3-8352-44c5-897d-e344682f47d6.png"/>
+   </td>
+  </tr>
+</table>
