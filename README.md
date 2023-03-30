@@ -30,8 +30,8 @@ Actualmente estoy aprendiendo HTML basico y git en la plataforma de <strong>plat
         <strong>HTML - CSS - LARAVEL - JETSTREAM </strong>
   </td>
     <td valign="top" width="50%">
-       <h3>  Netflix clone - vue js</h3> 
-     <a href="https://github.com/ROLY2033/clone-netflix" title="Netflix clon - vue js">
+       <h3>  Clon de Netflix</h3> 
+     <a href="https://github.com/ROLY2033/clone-netflix" title="Netflix clone">
        <img height='230px' src="https://user-images.githubusercontent.com/95943858/228941195-fc11b7d3-8352-44c5-897d-e344682f47d6.png"/>
      </a>
        <strong>HTML - CSS - VUEJS</strong>
