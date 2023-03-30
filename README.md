@@ -44,7 +44,7 @@ Actualmente estoy aprendiendo HTML basico y git en la plataforma de <strong>plat
    <td valign="top">
        <h3>  Blog Personal</h3> 
        <img src="https://user-images.githubusercontent.com/95943858/216058147-d694072e-8506-420d-9b1f-ba554c624584.png"/
-       <strong>HTML - CSS - LARAVEL - JETSTREAM - CKEDITOR</strong>
+       <strong>HTML - CSS - LARAVEL - JETSTREAM </strong>
   </td>
     <td valign="top">
        <h3>  Netflix clone - vue js</h3> 
