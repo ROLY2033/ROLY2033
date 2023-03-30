@@ -53,7 +53,7 @@ Actualmente estoy aprendiendo HTML basico y git en la plataforma de <strong>plat
 | 4. `Spring`         | `1%`             |      N.A        |           
 | 5. `laravel`        | `3%`             |      N.A        |           
 | 6. `JavaScript`     | `1%`             |      N.A        |           
-| 7. `HTML`           | `52%`            |[hola-mundo](https://github.com/ROLY2033/hola-mundo-html)        |          
+| 7. `HTML`           | `52%`            |[Todo List](https://github.com/ROLY2033/hola-mundo-html)        |          
 | 8. `blade`          | `12%`            |      N.A        |          
 | 9. `git`            | `17%`             |      N.A        |
 
