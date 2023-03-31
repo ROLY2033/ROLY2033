@@ -18,8 +18,6 @@ Actualmente estoy aprendiendo HTML basico y git en la plataforma de <strong>plat
 
 ## Proyectos personales
 
-
-
 <table>
   <tr>
    <td valign="top" width="50%">
