@@ -3,7 +3,7 @@
       <h3>Hola, Soy Roly egresado de ingenieria de sistemas...</h3> 
 </center>
 
-Actualmente estoy aprendiendo HTML basico y git en la plataforma de <strong>platzi</strong> espero poder terminar y aprender cosas interesantes :muscle:... <br>
+Actualmente estoy aprendiendo HTML basico y git en la plataforma de <strong>platzi</strong> :muscle:... <br>
 tambien hablo cualquier cosa relacionada a la tecnologia en mi canal de youtube; 
 <div align="center"> 
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
