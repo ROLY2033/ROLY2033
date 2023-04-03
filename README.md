@@ -39,7 +39,7 @@ Tambien tengo un canal de Youtube en que muestro lo que aprendo.
 </table>
 
 
-## Languages and frameworks
+## Tecnologias
 
 <div align="center">
 
