@@ -3,7 +3,7 @@
       <h3>Hola, Soy Roly egresado de ingenieria de sistemas...</h3> 
 </center>
 
-Actualmente estoy aprendiendo programacion en la plataformas de <strong>youtube, postcast, foros</strong> :muscle:... <br>
+Actualmente estoy aprendiendo programacion  de <strong>youtube, postcast, foros</strong> entre otros :muscle:... <br>
 Tambien tengo un canal de Youtube en que muestro lo que aprendo.
 <div align="center"> 
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
