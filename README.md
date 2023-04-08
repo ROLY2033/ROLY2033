@@ -50,7 +50,7 @@ Tambien tengo un canal de Youtube en que muestro lo que aprendo.
 | 3. `VueJS`          | `5%`             |      N.A        |           
 | 4. `Spring`         | `1%`             |      N.A        |           
 | 5. `laravel`        | `3%`             |      N.A        |           
-| 6. `Css`            | `1%`             |      [Media gallery](https://github.com/ROLY2033/galeria-media)         |           
+| 6. `Css`            | `25%`             |      [Media gallery](https://github.com/ROLY2033/galeria-media)         |           
 | 7. `HTML`           | `52%`            |[Todo List](https://github.com/ROLY2033/hola-mundo-html)        |          
 | 8. `blade`          | `12%`            |      N.A        |          
 | 9. `git`            | `17%`            |      N.A        |
