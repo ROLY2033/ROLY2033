@@ -25,14 +25,14 @@ Tambien tengo un canal de Youtube en que muestro lo que aprendo.
        <a href="https://github.com/ROLY2033/blogger-laravel" title="Laravel blogger">
          <img height='230px' src="https://user-images.githubusercontent.com/95943858/216058147-d694072e-8506-420d-9b1f-ba554c624584.png"/>
        </a>
-        <strong>HTML - CSS - LARAVEL - JETSTREAM </strong>
+        <strong>HTML5 - CSS3 - LARAVEL - JETSTREAM </strong>
   </td>
     <td valign="top" width="50%">
        <h3>  Clon de Netflix</h3> 
      <a href="https://github.com/ROLY2033/clone-netflix" title="Netflix clone">
        <img height='230px' src="https://user-images.githubusercontent.com/95943858/228941195-fc11b7d3-8352-44c5-897d-e344682f47d6.png"/>
      </a>
-       <strong>HTML - CSS - VUEJS</strong>
+       <strong>HTML5 - CSS3 - VUEJS</strong>
     </td>
   </tr>
   
