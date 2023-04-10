@@ -1,6 +1,6 @@
  
 <center>
-      <h3>Hola, Soy Roly egresado de ingenieria de sistemas.</h3> 
+      <h3>Hola, Soy Roly egresado de la carrera en ingenieria de sistemas.</h3> 
 </center>
 
 Actualmente estoy aprendiendo programacion de <strong>youtube, postcast, foros</strong> entre otros :muscle:... <br>
