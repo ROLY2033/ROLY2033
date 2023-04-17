@@ -2,8 +2,8 @@
 <center>
 Hola, Soy Roly egresado de la carrera en ingenieria de sistemas en la <strong>especialidad de ingenieria de software.</strong><br><br>
 </center>
-Soy una persona proactiva, comprometida y apasionada por la tecnología, siempre dispuesta a aprender y a afrontar nuevos retos en mi carrera profesional.<br><br>
 
+Soy una persona proactiva, comprometida y apasionada por la tecnología, siempre dispuesta a aprender y a afrontar nuevos retos en mi carrera profesional.<br><br>
 Además, como Desarrollador, tengo experiencia en el desarrollo e implementación de soluciones informáticas, utilizando diversas tecnologías y lenguajes de programación. Me enfoco en desarrollar soluciones eficientes y escalables, que permitan mejorar los procesos y la productividad de la empresa.
 
 <div align="center"> 
