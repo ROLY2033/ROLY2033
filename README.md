@@ -1,6 +1,6 @@
  
 <center>
-      <h3>Hola, Soy Roly egresado de la carrera en ingenieria de sistemas.</h3> 
+      <h3>Hola, Soy Roly egresado de la carrera en ingenieria de sistemas en la especialidad de software.</h3> 
 </center>
 Soy una persona proactiva, comprometida y apasionada por la tecnología, siempre dispuesta a aprender y a afrontar nuevos retos en mi carrera profesional.<br><br>
 
