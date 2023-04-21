@@ -46,7 +46,7 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
 
 | Tecnologias         | Dominio          |   Proyectitos   |          
 |---------------------|:----------------:|:---------------:|          
-| 1. `Java`           | `3%`             |     [Todo List](https://github.com/ROLY2033/todo-list)        |          
+| 1. `Java`           | `5%`             |     [Todo List](https://github.com/ROLY2033/todo-list)        |          
 | 2. `PHP`            | `7%`             |      N.A        |          
 | 3. `VueJS`          | `5%`             |      N.A        |           
 | 4. `Spring`         | `1%`             |      N.A        |           
