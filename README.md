@@ -46,13 +46,13 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
 
 | Tecnologias         | Dominio          |   Proyectitos   |          
 |---------------------|:----------------:|:---------------:|          
-| 1. `Java`           | `3%`             |      N.A        |          
+| 1. `Java`           | `3%`             |     [Todo List](https://github.com/ROLY2033/todo-list)        |          
 | 2. `PHP`            | `7%`             |      N.A        |          
 | 3. `VueJS`          | `5%`             |      N.A        |           
 | 4. `Spring`         | `1%`             |      N.A        |           
 | 5. `laravel`        | `3%`             |      N.A        |           
 | 6. `Css`            | `25%`             |      [Media gallery](https://github.com/ROLY2033/galeria-media)         |           
-| 7. `HTML`           | `52%`            |[Todo List](https://github.com/ROLY2033/hola-mundo-html)        |          
+| 7. `HTML`           | `52%`            |[bookmars](https://github.com/ROLY2033/hola-mundo-html)        |          
 | 8. `blade`          | `12%`            |      N.A        |          
 | 9. `git`            | `17%`            |      N.A        |
 
