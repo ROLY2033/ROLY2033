@@ -71,14 +71,10 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
 
 <div align="center">
 
-| Dificultad         | Tecnologias          |   URL   |          
+| Dificultad         | Tecnologias          |   TITULO   |          
 |---------------------|:----------------:|:---------------:|          
-| 1. `basico`           | `spring boot`             |     [Todo List](https://github.com/ROLY2033/todo-list)        |          
-| 2. `intermedio`            | `jwt - spring boot`             |      N.A        |          
-| 3. `intermedio`          | `laravel - livewire`             |      buscador dinamico       |           
-| 4. `basico`         | `nginx`             |        configuraciones de nginx      |           
-| 5. `basico`        | `laravel y Lighthouse`       |      [servidor y api con graphQL](https://github.com/ROLY2033/posts-graphql)        |           
-| 6. `basico`            | `css y html`             |      [Media gallery](https://github.com/ROLY2033/galeria-media)         |           
-| 7. `basico`           | `html, css y javascript`            |[bookmars](https://github.com/ROLY2033/hola-mundo-html)        |          
+| 1. `basico`           | `laravel migraciones`             |     como usar las migraciones en laravel        |          
+| 2. `basico`            | `GIT`             |      como realizar commits       |          
+| 3. `intermedio`          | `base de datos`             |      como realizar una bases de datos       |               
 
 </div>
