@@ -39,21 +39,19 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
 </table>
 
 
-## Tecnologias
+## Avances mini-proyectos
 
 <div align="center">
 
-| Tecnologias         | Dominio          |   Proyectitos   |          
+| Dificultad         | Tecnologias          |   URL   |          
 |---------------------|:----------------:|:---------------:|          
-| 1. `Java`           | `5%`             |     [Todo List](https://github.com/ROLY2033/todo-list)        |          
-| 2. `PHP`            | `7%`             |      N.A        |          
-| 3. `VueJS`          | `5%`             |      N.A        |           
-| 4. `Spring`         | `1%`             |      N.A        |           
-| 5. `laravel`        | `3%`             |      N.A        |           
-| 6. `Css`            | `25%`             |      [Media gallery](https://github.com/ROLY2033/galeria-media)         |           
-| 7. `HTML`           | `52%`            |[bookmars](https://github.com/ROLY2033/hola-mundo-html)        |          
-| 8. `blade`          | `12%`            |      N.A        |          
-| 9. `git`            | `17%`            |      N.A        |
+| 1. `basico`           | `spring boot`             |     [Todo List](https://github.com/ROLY2033/todo-list)        |          
+| 2. `intermedio`            | `jwt - spring boot`             |      N.A        |          
+| 3. `intermedio`          | `laravel - livewire`             |      buscador dinamico       |           
+| 4. `basico`         | `nginx`             |        configuraciones de nginx      |           
+| 5. `basico`        | `laravel`             |      [servidor y api con graphQL](https://github.com/ROLY2033/posts-graphql)        |           
+| 6. `basico`            | `css y html`             |      [Media gallery](https://github.com/ROLY2033/galeria-media)         |           
+| 7. `basico`           | `html, css y javascript`            |[bookmars](https://github.com/ROLY2033/hola-mundo-html)        |          
 
 </div>
 
