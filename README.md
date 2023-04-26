@@ -49,7 +49,7 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
 | 2. `intermedio`            | `jwt - spring boot`             |      N.A        |          
 | 3. `intermedio`          | `laravel - livewire`             |      buscador dinamico       |           
 | 4. `basico`         | `nginx`             |        configuraciones de nginx      |           
-| 5. `basico`        | `laravel`             |      [servidor y api con graphQL](https://github.com/ROLY2033/posts-graphql)        |           
+| 5. `basico`        | `laravel y Lighthouse`       |      [servidor y api con graphQL](https://github.com/ROLY2033/posts-graphql)        |           
 | 6. `basico`            | `css y html`             |      [Media gallery](https://github.com/ROLY2033/galeria-media)         |           
 | 7. `basico`           | `html, css y javascript`            |[bookmars](https://github.com/ROLY2033/hola-mundo-html)        |          
 
