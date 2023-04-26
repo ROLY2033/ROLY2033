@@ -64,3 +64,21 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
 ![laravel (1)](https://user-images.githubusercontent.com/95943858/210660772-44b49707-0172-4ab0-875a-ac7d70289ff9.png)
 ![tailwind-css-icon_](https://user-images.githubusercontent.com/95943858/210661225-54a00064-167c-43dc-95b3-8b25b1680d03.png)
 ![vue_](https://user-images.githubusercontent.com/95943858/210661103-9574ef3d-03b7-496b-8992-44377a340bb9.png)
+
+
+
+## Avances de contenido
+
+<div align="center">
+
+| Dificultad         | Tecnologias          |   URL   |          
+|---------------------|:----------------:|:---------------:|          
+| 1. `basico`           | `spring boot`             |     [Todo List](https://github.com/ROLY2033/todo-list)        |          
+| 2. `intermedio`            | `jwt - spring boot`             |      N.A        |          
+| 3. `intermedio`          | `laravel - livewire`             |      buscador dinamico       |           
+| 4. `basico`         | `nginx`             |        configuraciones de nginx      |           
+| 5. `basico`        | `laravel y Lighthouse`       |      [servidor y api con graphQL](https://github.com/ROLY2033/posts-graphql)        |           
+| 6. `basico`            | `css y html`             |      [Media gallery](https://github.com/ROLY2033/galeria-media)         |           
+| 7. `basico`           | `html, css y javascript`            |[bookmars](https://github.com/ROLY2033/hola-mundo-html)        |          
+
+</div>
