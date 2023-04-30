@@ -35,7 +35,16 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
        <strong>HTML5 - CSS3 - VUEJS</strong>
     </td>
   </tr>
-  
+<!--  SECCION 2 -->
+ <tr>
+   <td valign="top" width="50%">
+       <h3> Clone Tiktok </h3> 
+       <a href="https://github.com/ROLY2033/blogger-laravel" title="Laravel blogger">
+         <img height='230px' src="https://user-images.githubusercontent.com/95943858/235364268-98a47089-1ec6-449a-bc8d-244b8a6279d5.png"/>
+       </a>
+        <strong>HTML5 - CSS3 - VUEJS - NUXTJS </strong>
+    </td>
+  </tr>
 </table>
 
 
