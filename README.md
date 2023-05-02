@@ -63,6 +63,7 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
 | 7. `basico`           | `html, css y javascript`            |[bookmars](https://github.com/ROLY2033/hola-mundo-html)        |          
 
 </div>
+
 ![Java](https://user-images.githubusercontent.com/102749844/173580987-89f908d8-dc3e-4e0c-ab41-6761e27963c1.png)
 ![HTML + CSS](https://user-images.githubusercontent.com/102749844/173581014-ac57c5d2-2305-479e-bab0-41aaba1a7c68.png)
 ![JavaScript](https://user-images.githubusercontent.com/102749844/173581498-7c666d1e-7d7d-4056-93d1-c8a8edde3e2e.png)
