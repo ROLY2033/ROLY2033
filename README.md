@@ -38,7 +38,7 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
 <!--  SECCION 2 -->
  <tr>
    <td valign="top" width="50%">
-       <h3> Clone Tiktok </h3> 
+       <h3> Clon de Tiktok </h3> 
        <a href="https://github.com/ROLY2033/blogger-laravel" title="Laravel blogger">
          <img height='230px' src="https://user-images.githubusercontent.com/95943858/235364345-40e8ad0d-9adf-4a38-a1ac-c994fefce06a.png"/>
        </a>
