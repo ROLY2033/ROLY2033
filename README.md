@@ -57,13 +57,12 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
 | 1. `basico`           | `spring boot`             |     [Todo List](https://github.com/ROLY2033/todo-list)        |          
 | 2. `intermedio`            | `jwt - spring boot`             |      N.A        |          
 | 3. `intermedio`          | `laravel - livewire`             |      buscador dinamico       |           
-| 4. `basico`         | `nginx`             |        configuraciones de nginx      |           
+| 4. `basico`         | `laravel`             |        control de deudas de estudiantes     |           
 | 5. `basico`        | `laravel y Lighthouse`       |      [servidor y api para graphQL](https://github.com/ROLY2033/posts-graphql)        |           
 | 6. `basico`            | `css y html`             |      [Media gallery](https://github.com/ROLY2033/galeria-media)         |           
 | 7. `basico`           | `html, css y javascript`            |[bookmars](https://github.com/ROLY2033/hola-mundo-html)        |          
 
 </div>
-
 ![Java](https://user-images.githubusercontent.com/102749844/173580987-89f908d8-dc3e-4e0c-ab41-6761e27963c1.png)
 ![HTML + CSS](https://user-images.githubusercontent.com/102749844/173581014-ac57c5d2-2305-479e-bab0-41aaba1a7c68.png)
 ![JavaScript](https://user-images.githubusercontent.com/102749844/173581498-7c666d1e-7d7d-4056-93d1-c8a8edde3e2e.png)
