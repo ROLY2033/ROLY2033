@@ -1,6 +1,6 @@
  
 <center>
-Hola, Mi nombre es Roly, egresado de la carrera en Ingenieria de Sistemas en la <strong>especializado - Desarrollo de software.</strong><br><br>
+Hola, Mi nombre es Roly, egresado de la carrera en Ingenieria de Sistemas en la <strong>especialidad - Desarrollo de software.</strong><br><br>
  
 </center>
 Soy una persona proactiva y apasionada por la tecnología, siempre dispuesta a aprender y a afrontar nuevos retos en mi carrera profesional.<br><br>
