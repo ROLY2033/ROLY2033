@@ -8,7 +8,6 @@ Además, como Desarrollador, tengo experiencia en el desarrollo e implementació
 
 Tambien tengo articulos publicados en medium del avance mis habilidades, experiencias,entre otras cosas; por aprender cosas nuevas como es la <strong >INTELIGENCIA ARITICIAL</strong> y para lo que sirve en el dia a dia.
 
-
 <div align="center"> 
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
  <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ROLY2033&hide=python&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only"/>
