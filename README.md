@@ -65,6 +65,7 @@ Tambien tengo articulos publicados en medium del avance mis habilidades, experie
 | 5. `basico`        | `laravel y Lighthouse`       |      [servidor y api para graphQL](https://github.com/ROLY2033/posts-graphql)        |           
 | 6. `basico`            | `css y html`             |      [Media gallery](https://github.com/ROLY2033/galeria-media)         |           
 | 7. `basico`           | `html, css y javascript`            |[bookmars](https://github.com/ROLY2033/hola-mundo-html)        |          
+| 8. `Intermedio`           | `clon de twitter`            |[proyecto](https://github.com/ROLY2033/routter.git)        |          
 
 </div>
 
