@@ -91,5 +91,6 @@ Tambien tengo articulos publicados en medium del avance mis habilidades, experie
 | 1. `basico`           | `laravel migraciones`             |     como usar las migraciones en laravel        |          
 | 2. `basico`            | `GIT`             |      como realizar commits       |          
 | 3. `intermedio`          | `base de datos`             |      como realizar una bases de datos       |               
+| 4. `basico`          | `cursos`             |      lista de cursos de mas dificiles       |    
 
 </div>
